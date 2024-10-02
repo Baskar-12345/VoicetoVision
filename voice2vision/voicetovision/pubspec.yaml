@@ -1,0 +1,12 @@
+name: voice2vision
+description: A Flutter app for converting speech to sign language videos.
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2        
+  speech_to_text: ^5.0.0
+  video_player: ^2.3.0
